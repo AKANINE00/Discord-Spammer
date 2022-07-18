@@ -1,4 +1,4 @@
-# Discord-Spammer-
+# Discord-Spammer
 
 ### Discord Spammer - Dis-ToolV1.7
 -This tool is not yet complete, please continue to develop it.
